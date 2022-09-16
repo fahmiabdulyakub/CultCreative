@@ -12,7 +12,10 @@ export const Routes = () => {
   return (
     <NavigationContainer>
       <SafeAreaView style={styles.SafeAreaView}>
-        <StatusBar backgroundColor={Colors.white} barStyle="dark-content" />
+        <StatusBar
+          backgroundColor={Colors.light_grey}
+          barStyle="dark-content"
+        />
         <Stack.Navigator initialRouteName="Home">
           <Stack.Screen
             name="Home"

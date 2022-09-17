@@ -1,5 +1,5 @@
 import {View} from 'react-native';
-import React from 'react';
+import React, {memo} from 'react';
 import styles from './styles';
 import {PropsType} from './types';
 import {TextInput} from 'react-native';
@@ -22,4 +22,4 @@ const Input = ({value, placeholder, onChangeText}: PropsType) => {
   );
 };
 
-export default Input;
+export default memo(Input);

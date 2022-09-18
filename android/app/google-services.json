@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "893151297378",
+    "firebase_url": "https://cultcreative-660c0-default-rtdb.firebaseio.com",
+    "project_id": "cultcreative-660c0",
+    "storage_bucket": "cultcreative-660c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893151297378:android:271fe1f942e33437c7f63b",
+        "android_client_info": {
+          "package_name": "com.cultcreative"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893151297378-as9nijs8rknl8rnikmmvujae4kv3n21o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cultcreative",
+            "certificate_hash": "27a61c68cfa36a15718c3673901dd5f03e5bb5de"
+          }
+        },
+        {
+          "client_id": "893151297378-9k0t2p9s9ep4d2553al5v5isgglq0ne7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsO5o4Y-U0iWPs5p8EXVcl49s66Zh2xeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893151297378-9k0t2p9s9ep4d2553al5v5isgglq0ne7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

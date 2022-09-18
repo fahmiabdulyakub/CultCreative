@@ -1,2 +1,3 @@
 import Card from './Card';
-export {Card};
+import JobListShimmer from './JobListShimmer';
+export {Card, JobListShimmer};

@@ -9,7 +9,7 @@ export default StyleSheet.create({
     borderRadius: 10,
     paddingHorizontal: wp(3),
     backgroundColor: Colors.white,
-    marginVertical: hp(2),
+    marginVertical: hp(1),
   },
   image: {
     width: wp(15),
